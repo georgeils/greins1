@@ -1,0 +1,8 @@
+venv/
+.pylintrc
+
+vscode
+.idea
+
+db.sqlite3
+media/
